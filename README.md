@@ -172,26 +172,26 @@ The business is listed under gym category. It has received 28 reviews with an av
 </font>
 </p>
 </body>
-</html>
+</htmlś>
 ```
 
 
 
 ## Output:
-![Output](./screenshots/out1.png)
+![Output](./screenshot/out1.png)
 
-![Output](./screenshots/out2.png)
+![Output](./screenshot/out2.png)
 
 ![Output](./screenshots/out3.png)
 
-![Output](./screenshots/out4.png)
+![Output](./screenshot/out4.png)
 
-![Output](./screenshots/out5.png)
+![Output](./screenshot/out5.png)
 
-![Output](./screenshots/out6.png)
+![Output](./screenshot/out6.png)
 
 ## HTML validator
-![HTML validator](./screenshots/valid.png)
+![HTML validator](./screenshot/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully 
