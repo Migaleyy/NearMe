@@ -30,7 +30,7 @@ map.html
 <font color="red"><b>Chennai</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Udhayasankaran M(22003350)</b></font>
+<font color="blue"><b>Migal G Arunadann(22006541)</b></font>
 </h3>
 <center>
 <img src="/static/images/MAP.png" usemap="#MyCity" height="648" width="1152">
